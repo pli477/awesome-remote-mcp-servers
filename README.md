@@ -191,6 +191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
+- [OceanToken](https://oceantoken.ai) `https://mcp.oceantoken.ai/mcp`
+  [![OceanToken MCP connector](https://glama.ai/mcp/connectors/ai.oceantoken/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.oceantoken/mcp)
+  🔐 - Search and price 480+ AI models, ask any of them, and generate images, video and speech on one prepaid balance.
 - [PayAPI Market](https://payapi.market) `https://payapi.market/mcp`
   [![PayAPI Market MCP connector](https://glama.ai/mcp/connectors/market.payapi/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/market.payapi/marketplace)
   🔓 - Search 358 live x402 APIs from 242 providers, then pay each call in USDC on Base with no API key or account.
